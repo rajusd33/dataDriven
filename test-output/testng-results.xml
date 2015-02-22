@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="44846" started-at="2015-02-22T16:50:33Z" finished-at="2015-02-22T16:51:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="44846" started-at="2015-02-22T16:50:33Z" finished-at="2015-02-22T16:51:18Z">
+      <class name="baseFram.MyDataDrivenTest">
+        <test-method status="PASS" signature="beforeclass(java.lang.String)[pri:0, instance:baseFram.MyDataDrivenTest@60d5ad52]" name="beforeclass" is-config="true" duration-ms="6822" started-at="2015-02-22T11:50:33Z" finished-at="2015-02-22T11:50:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ff]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method status="PASS" signature="validsignIn(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:baseFram.MyDataDrivenTest@60d5ad52]" name="validsignIn" duration-ms="13031" started-at="2015-02-22T11:50:41Z" data-provider="DP" finished-at="2015-02-22T11:50:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rajusd33@yahoo.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ABCD1234]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[HEY, ANJAL]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validsignIn -->
+        <test-method status="PASS" signature="beforMethod()[pri:0, instance:baseFram.MyDataDrivenTest@60d5ad52]" name="beforMethod" is-config="true" duration-ms="0" started-at="2015-02-22T11:50:41Z" finished-at="2015-02-22T11:50:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforMethod -->
+        <test-method status="PASS" signature="beforMethod()[pri:0, instance:baseFram.MyDataDrivenTest@60d5ad52]" name="beforMethod" is-config="true" duration-ms="0" started-at="2015-02-22T11:50:54Z" finished-at="2015-02-22T11:50:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforMethod -->
+        <test-method status="PASS" signature="validsignIn(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:baseFram.MyDataDrivenTest@60d5ad52]" name="validsignIn" duration-ms="12303" started-at="2015-02-22T11:50:54Z" data-provider="DP" finished-at="2015-02-22T11:51:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[toufiq@yahoo.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ABCD1234]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[HEY, TOUFIQ]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validsignIn -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:baseFram.MyDataDrivenTest@60d5ad52]" name="afterMethod" is-config="true" duration-ms="0" started-at="2015-02-22T11:50:54Z" finished-at="2015-02-22T11:50:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:baseFram.MyDataDrivenTest@60d5ad52]" name="afterMethod" is-config="true" duration-ms="1" started-at="2015-02-22T11:51:06Z" finished-at="2015-02-22T11:51:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="validsignIn(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:baseFram.MyDataDrivenTest@60d5ad52]" name="validsignIn" duration-ms="11927" started-at="2015-02-22T11:51:06Z" data-provider="DP" finished-at="2015-02-22T11:51:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[nasiha@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ABCD1234]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[HEY, NASIHA]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validsignIn -->
+        <test-method status="PASS" signature="beforMethod()[pri:0, instance:baseFram.MyDataDrivenTest@60d5ad52]" name="beforMethod" is-config="true" duration-ms="0" started-at="2015-02-22T11:51:06Z" finished-at="2015-02-22T11:51:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:baseFram.MyDataDrivenTest@60d5ad52]" name="afterMethod" is-config="true" duration-ms="0" started-at="2015-02-22T11:51:18Z" finished-at="2015-02-22T11:51:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterclass()[pri:0, instance:baseFram.MyDataDrivenTest@60d5ad52]" name="afterclass" is-config="true" duration-ms="180" started-at="2015-02-22T11:51:18Z" finished-at="2015-02-22T11:51:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+      </class> <!-- baseFram.MyDataDrivenTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
